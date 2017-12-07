@@ -1,0 +1,17 @@
+1. Add a new repository in github and copy the repository path
+
+2. Open gitbash
+
+3. git clone "paste the path"
+	 
+4. git status 
+
+5. git add .  ["." means it will add all files]
+
+6. git commit -m "your message for the code"
+
+7. git push origin master
+
+
+
+[ gitbash should be opened in the folder where all the files are ready to upload]
