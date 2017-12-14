@@ -1,0 +1,16 @@
+
+go to mysql console.
+
+..........Commands.............
+
+1.show databases;
+
+2. use database_name;
+
+3. show tables;
+
+4. desc table_name;
+
+5. insert into table_name values (101, 'sunzid', AES_ENCRYPT('password','key'));
+
+6. SELECT AES_DECRYPT( password, 'usersPassword') as encrypted from table_name;
